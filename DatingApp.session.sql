@@ -1,0 +1,2 @@
+INSERT INTO Users VALUES (2, 'Test');
+SELECT * FROM Users
