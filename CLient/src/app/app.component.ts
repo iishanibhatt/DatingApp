@@ -24,7 +24,6 @@ export class AppComponent implements OnInit {
       },
       complete:() =>{
         console.log("Request has been completed.");
-        
       }
     });
   }
